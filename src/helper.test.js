@@ -1,4 +1,4 @@
-import { double } from './helper';
+import { double } from './helper.js';
 
 describe('helper tests', () => {
   it('doubles a number', () => {
