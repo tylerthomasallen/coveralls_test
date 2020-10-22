@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/tylerthomasallen/coveralls_test/badge.svg?branch=master)](https://coveralls.io/github/tylerthomasallen/coveralls_test?branch=master)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
